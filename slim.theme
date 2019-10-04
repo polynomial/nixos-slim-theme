@@ -9,7 +9,7 @@ msg_x                   50%
 msg_y                   70%
 
 # valid values: stretch, tile
-background_style        tile
+background_style        stretch
 background_color        #000000
 
 # input box controls
